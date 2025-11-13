@@ -151,7 +151,7 @@ def main():
             set_motor_speeds(motors, 0, 0)
             break
 
-        # --- NOVO REFLEXO MAIS SIMPLES E ROBUSTO ---
+        # --- SEM HEURÍSTICA DE REFLEXO ---
         
         
 
