@@ -18,8 +18,8 @@ autonomous-robot-webots/
 │   │   └── robot_perception_model.pth            # Pesos PyTorch do modelo de percepção
 │   │
 │   └── navigator_controller/
-│       ├── navigator_controller.py               # (opcional) controlador baseline / fallback
-│       └── robot_perception_model.pth            # (opcional)
+│       ├── navigator_controller.py              
+│       └── robot_perception_model.pth            
 │
 ├── requirements.txt
 └── README.md
