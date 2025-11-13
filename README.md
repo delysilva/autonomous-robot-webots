@@ -79,7 +79,7 @@ Construir e testar um controlador híbrido que:
 pip install torch numpy opencv-python pgmpy
 ```
 
-> 💡 *Em ambientes sem GPU, o PyTorch instala automaticamente a versão CPU.*
+> 💡 *Em ambientes sem GPU, o PyTorch instala automaticamente a versão CPU. (Recomenda-se ambientes com GPI)*
 
 ---
 
