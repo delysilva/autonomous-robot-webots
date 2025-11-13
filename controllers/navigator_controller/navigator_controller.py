@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Controlador Final de Navegação Inteligente (CNN + MLP + RB)
 
-Autor: Você
+Autor: Dely Silva
 """
 
 import os
